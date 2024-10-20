@@ -9,6 +9,8 @@ Most notable features: (all auras and nukers use fake rotation packets)
 -Powder Macro (everything automatic, uses nuker for the block breaking)
 -Crop Aura (auto places any crop)
 
+#######
+
 All macros have failsafes, for example player detection or stop when getting warped out
 -Auto Enchanting
 -Auto Book Combine
