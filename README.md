@@ -1,3 +1,7 @@
+# Pizza Client
+
+
+
 Most notable features: (all auras and nukers use fake rotation packets)
 - Qol ice fill (still somewhat wip, works great for 150 or less ping)
 - Spirit Bear Aura (with triggerbot once a spirit bear spawns)
