@@ -30,3 +30,9 @@ All macros have failsafes, for example player detection or stop when getting war
 - Alot of dungeon Esps
 - Auto Wardrobe
 - Anti sessionid stealer (works for getSessionID and getToken, still somewhat WIP?)
+
+# FAQ
+Q: Do i have to download it again when the client updates?
+A: No, the loader automatically downloads any new version whenever you open your game.
+Q: I have bought Premium, how do i use it?
+A: You have two choices: either you can restart your game, or type /pizza reload in chat to reload the client.
