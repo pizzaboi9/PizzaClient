@@ -32,9 +32,10 @@ All macros have failsafes, for example player detection or stop when getting war
 - Anti sessionid stealer (works for getSessionID and getToken, still somewhat WIP?)
 
   # Installation
-  1. Download PizzaLoader_V2 and drag it into your mods folder.
-  2. Launch Forge and connect to hypixel
-  3. Use the command /pizza to configure your settings!
+
+    1. Download PizzaLoader_V2 and drag it into your mods folder.
+     2. Launch Forge and connect to hypixel
+       3. 3. Use the command /pizza to configure your settings!
 
 # FAQ
 - Q: Do i have to download it again when the client updates?
