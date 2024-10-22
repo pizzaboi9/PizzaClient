@@ -34,5 +34,10 @@ All macros have failsafes, for example player detection or stop when getting war
 # FAQ
 - Q: Do i have to download it again when the client updates?
 - A: No, the loader automatically downloads any new version whenever you open your game.
+
 - Q: I have bought Premium, how do i use it?
 - A: You have two choices: either you can restart your game, or type /pizza reload in chat to reload the client.
+
+- Q: Is this safe?
+- A: If you're talking about whether you will be banned by using this, no. As long as you don't nuke for days on end, all of the features are undetectable. I've heard of admins spectating top dungeon parties during paul so have caution. If you're talking about if this mod is malicious, no. If you check it on virustotal, only one vendor will flag it as malicious; the [obfuscation]([url](https://en.wikipedia.org/wiki/Obfuscation)) detector. Obfuscation is simply the code being hidden so people cannot steal it or use it for malicious purposes.
+  
